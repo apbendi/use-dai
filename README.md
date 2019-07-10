@@ -13,7 +13,7 @@
 
 <p align="center">
 	<a href="https://makerdao.com/en/dai">What is Dai?</a>&nbsp;·&nbsp;
-	<a href="">Contribution Guide</a>&nbsp;·&nbsp;
+	<a href="CONTRIBUTING.md">Contribution Guide</a>&nbsp;·&nbsp;
 	<a href="https://twitter.com/intent/tweet?text=Checkout%20usedai.org%2C%20a%20community%20compiled%20list%20of%20everywhere%20you%20can%20use%20the%20decentralized%20%24DAI%20stablecoin">Tweet this</a>
 </p>
 
