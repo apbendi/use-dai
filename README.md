@@ -39,15 +39,31 @@
 
 ## Agencies and Consultancies
 
+* [ScopeLift](https://www.scopelift.co/) - Software consultancy with expertise in crypto, web, and native mobile development.
+
 ## Charity and Tipping
+
+* [NeedsList](https://needslist.co/donate) - Real-time needs registry for disaster relief and humanitarian aid.
+* [SendCrypto Bot](https://sendcryptobot.io/) - Tip with Dai on Twitter, Slack and Reddit.
+* [Unicef Ventures, France](https://lp.unicef.fr/donate-dai/) - Invests in frontier technologies, and how they could be used to solve humanity’s greatest challenges.
 
 ## E-commerce
 
+* [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/) - Buy gift cards with Dai.
+
 ## Finance, Investment, and Trading
+
+* [Compound](https://compound.finance/) - Earn interest on Dai via algorithmic Money Markets.
+* [Dharma](https://www.dharma.io) - Lend your Dai and earn interest.
+* [Maker](https://cdp.makerdao.com/) - Get loans in Dai against collateralized ETH.
+* [Uniswap](https://uniswap.io/) - Decentralized protocol for swapping ETH, Dai and other tokens.
+
 
 ## Freelancers
 
 ## Other
+
+* [Gitcoin](https://gitcoin.co/) - Platform for crowdfunding and freelance developers for your software projects.
 
 
 ## Disclosure
