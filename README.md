@@ -8,7 +8,7 @@
 <h1 align="center">Use Dai</h1>
 
 <p align="center">
-	<b>A currated, commuity compiled list of everywhere you can use the decentralized Dai stablecoin</b>
+	<b>A curated, community compiled list of everywhere you can use the decentralized Dai stablecoin</b>
 </p>
 
 <p align="center">
@@ -24,6 +24,10 @@
 ## Contents
 
 * Things
+
+## Disclosure
+
+This list is a community project and is in no way affiliated with Maker or any other entity. Nothing in this repository may be construed as legal or investment advice, nor as an endorsement of any of the businesses or projects contained herein. Holding and/or using Dai-- or any other cryptocurrency-- has risks. No contributor to this project may held liable for lost or stolen funds, or any other damages that may be incurred by using Dai or interacting with the projects listed herein. Contributors to this repository may hold positions in crypto assets. Please consult with your own legal, financial, and tax professionals.
 
 ## License
 
