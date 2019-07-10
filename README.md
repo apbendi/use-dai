@@ -23,7 +23,32 @@
 
 ## Contents
 
-* Things
+#### Categories
+
+* [Agencies and Consultancies](#agencies-and-consultancies)
+* [Charity and Tipping](#charity-and-tipping)
+* [E-commerce](#e-commerce)
+* [Finance, Investment, and Trading](#finance-investment-and-trading)
+* [Freelancers](#freelancers)
+* [Other](#other)
+
+#### Miscellany
+
+* [Disclosure](#disclosure)
+* [License](#license)
+
+## Agencies and Consultancies
+
+## Charity and Tipping
+
+## E-commerce
+
+## Finance, Investment, and Trading
+
+## Freelancers
+
+## Other
+
 
 ## Disclosure
 
