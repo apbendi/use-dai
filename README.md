@@ -72,6 +72,7 @@
 ## Other
 
 * [Gitcoin](https://gitcoin.co/) - Platform for crowdfunding and freelance developers for your software projects.
+* [Living Room of Satoshi](https://www.livingroomofsatoshi.com/) - Pay with confidence at Australia's largest crypto payments gateway.
 
 
 ## Disclosure
