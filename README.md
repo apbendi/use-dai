@@ -73,6 +73,7 @@
 
 * [Gitcoin](https://gitcoin.co/) - Platform for crowdfunding and freelance developers for your software projects.
 * [Living Room of Satoshi](https://www.livingroomofsatoshi.com/) - Pay with confidence at Australia's largest crypto payments gateway.
+* [CelerX](https://celerx.app/) - Play eSports games, win crypto prizes. Have fun. Play to earn!
 
 
 ## Disclosure
