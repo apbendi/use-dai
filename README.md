@@ -56,8 +56,14 @@
 * [Compound](https://compound.finance/) - Earn interest on Dai via algorithmic Money Markets.
 * [Dharma](https://www.dharma.io) - Lend your Dai and earn interest.
 * [Maker](https://cdp.makerdao.com/) - Get loans in Dai against collateralized ETH.
-* [Uniswap](https://uniswap.io/) - Decentralized protocol for swapping ETH, Dai and other tokens.
+* [Nuo](https://app.nuo.network/) - Simplest way to margin trade.
 
+## Excahgnes
+
+* [Uniswap](https://uniswap.io/) - Decentralized protocol for swapping ETH, Dai and other tokens.
+* [KyberSwap](https://kyberswap.com/) - A simple way to exchange tokens. No deposit, oo orderbook, competitive spreads.
+* [token.store ETH](https://token.store/) - Decentralized exchange for ERC-20 tokens with an open smart contract. Features on-chain order-matching and settlement.
+* [dYdX](https://trade.dydx.exchange/) - The most powerful open trading platform for crypto assets.
 
 ## Freelancers
 
