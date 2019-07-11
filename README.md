@@ -28,7 +28,8 @@
 * [Agencies and Consultancies](#agencies-and-consultancies)
 * [Charity and Tipping](#charity-and-tipping)
 * [E-commerce](#e-commerce)
-* [Finance, Investment, and Trading](#finance-investment-and-trading)
+* [Finance, Investment](#finance-investment)
+* [Trading](#trading)
 * [Freelancers](#freelancers)
 * [Other](#other)
 
@@ -51,14 +52,14 @@
 
 * [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/) - Buy gift cards with Dai.
 
-## Finance, Investment, and Trading
+## Finance, Investment
 
 * [Compound](https://compound.finance/) - Earn interest on Dai via algorithmic Money Markets.
 * [Dharma](https://www.dharma.io) - Lend your Dai and earn interest.
 * [Maker](https://cdp.makerdao.com/) - Get loans in Dai against collateralized ETH.
 * [Nuo](https://app.nuo.network/) - Simplest way to margin trade.
 
-## Excahgnes
+## Trading
 
 * [Uniswap](https://uniswap.io/) - Decentralized protocol for swapping ETH, Dai and other tokens.
 * [KyberSwap](https://kyberswap.com/) - A simple way to exchange tokens. No deposit, oo orderbook, competitive spreads.
