@@ -75,7 +75,7 @@
 
 * [Bounties Network](https://bounties.network/) - Earn Dai, ETH, or other tokens by working on freelance projects or fund your own
 * [Gitcoin](https://gitcoin.co/) - Platform for crowdfunding and freelance developers for your software projects.
-* [Bounty0x](https://https://bounty0x.io/) - Fund or complete bounties for  marketing, development, and creative tasks with/for Dai, ETH, and other tokens.
+* [Bounty0x](https://bounty0x.io/) - Fund or complete bounties for  marketing, development, and creative tasks with/for Dai, ETH, and other tokens.
 
 ## Other
 
