@@ -55,7 +55,7 @@
 * [OpenSea](https://opensea.io) - Buy and sell digital good and assets.  Make offers in Dai.
 
 ## Payments
-* [Wirex](https://wirexapp.com/card/) Fund a Wirex debit card with Dai and spend anywhere Visa is accepted.
+* [Wirex](https://wirexapp.com/card/) - Fund a Wirex debit card with Dai and spend anywhere Visa is accepted.
 * [Dai Card](https://daicard.io/) - Instant, off-chain, peer to peer, Dai transactions using a simple, browser-based UI
 
 ## Finance, Investment, and Trading
@@ -72,6 +72,7 @@
 
 * [Bounties Network](https://bounties.network/) - Earn Dai, ETH, or other tokens by working on freelance projects or fund your own
 * [Gitcoin](https://gitcoin.co/) - Platform for crowdfunding and freelance developers for your software projects.
+* [Bounty0x](https://https://bounty0x.io/) - Fund or complete bounties for simple marketing, software development, and creative tasks with/for Dai, ETH, and other tokens.
 
 ## Other
 
