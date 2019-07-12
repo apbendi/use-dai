@@ -46,10 +46,12 @@
 * [NeedsList](https://needslist.co/donate) - Real-time needs registry for disaster relief and humanitarian aid.
 * [SendCrypto Bot](https://sendcryptobot.io/) - Tip with Dai on Twitter, Slack and Reddit.
 * [Unicef Ventures, France](https://lp.unicef.fr/donate-dai/) - Invests in frontier technologies, and how they could be used to solve humanity’s greatest challenges.
+* [Dai Card](https://daicard.io/) - Instant, off-chain, peer to peer, Dai transactions using a simple, browser-based UI
 
 ## E-commerce
 
 * [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/) - Buy gift cards with Dai.
+* [OpenSea](https://opensea.io) - Buy and sell digital good and assets.  Make offers in Dai.
 
 ## Finance, Investment, and Trading
 
@@ -57,13 +59,18 @@
 * [Dharma](https://www.dharma.io) - Lend your Dai and earn interest.
 * [Maker](https://cdp.makerdao.com/) - Get loans in Dai against collateralized ETH.
 * [Uniswap](https://uniswap.io/) - Decentralized protocol for swapping ETH, Dai and other tokens.
-
+* [Nuo](https://www.nuo.network/) - Lend, borrow, and margin trade your Dai, ETH, and other ERC20 tokens
+* [AirSwap](https://www.airswap.io/) - Trade Dai for ETH and other popular tokens instantly or with OTC desks
+* [TokenSets](https://www.tokensets.com/) - Manage your crypto portfolio with automated rebalancing between Dai, ETH, and other tokens using a variety of strategies
 
 ## Freelancers
 
+* [Bounties Network](https://bounties.network/) - Earn Dai, ETH, or other tokens by working on freelance projects or fund your own
+* [Gitcoin](https://gitcoin.co/) - Platform for crowdfunding and freelance developers for your software projects.
+
 ## Other
 
-* [Gitcoin](https://gitcoin.co/) - Platform for crowdfunding and freelance developers for your software projects.
+
 
 
 ## Disclosure
