@@ -27,6 +27,7 @@
 
 * [Agencies and Consultancies](#agencies-and-consultancies)
 * [Charity and Tipping](#charity-and-tipping)
+* [Payments](#payments)
 * [E-commerce](#e-commerce)
 * [Finance, Investment, and Trading](#finance-investment-and-trading)
 * [Freelancers](#freelancers)
@@ -46,12 +47,16 @@
 * [NeedsList](https://needslist.co/donate) - Real-time needs registry for disaster relief and humanitarian aid.
 * [SendCrypto Bot](https://sendcryptobot.io/) - Tip with Dai on Twitter, Slack and Reddit.
 * [Unicef Ventures, France](https://lp.unicef.fr/donate-dai/) - Invests in frontier technologies, and how they could be used to solve humanity’s greatest challenges.
-* [Dai Card](https://daicard.io/) - Instant, off-chain, peer to peer, Dai transactions using a simple, browser-based UI
+
 
 ## E-commerce
 
 * [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/) - Buy gift cards with Dai.
 * [OpenSea](https://opensea.io) - Buy and sell digital good and assets.  Make offers in Dai.
+
+## Payments
+* [Wirex](https://wirexapp.com/card/) Fund a Wirex debit card with Dai and spend anywhere Visa is accepted.
+* [Dai Card](https://daicard.io/) - Instant, off-chain, peer to peer, Dai transactions using a simple, browser-based UI
 
 ## Finance, Investment, and Trading
 
