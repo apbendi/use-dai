@@ -27,6 +27,7 @@
 
 * [Agencies and Consultancies](#agencies-and-consultancies)
 * [Charity and Tipping](#charity-and-tipping)
+* [Payments](#payments)
 * [E-commerce](#e-commerce)
 * [Finance, Investment](#finance-investment)
 * [Trading](#trading)
@@ -48,33 +49,42 @@
 * [SendCrypto Bot](https://sendcryptobot.io/) - Tip with Dai on Twitter, Slack and Reddit.
 * [Unicef Ventures, France](https://lp.unicef.fr/donate-dai/) - Invests in frontier technologies, and how they could be used to solve humanity’s greatest challenges.
 
+
 ## E-commerce
 
 * [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/) - Buy gift cards with Dai.
+* [OpenSea](https://opensea.io) - Buy and sell digital good and assets.  Make offers in Dai.
+
+## Payments
+
+* [Aave Pay](https://pay.aave.com/) - Use Dai and other crypto to send fiat payments to basically anyone.
+* [Coingate](https://coingate.com) - Accept payment in Dai and 50 other crypto currencies.
+* [Dai Card](https://daicard.io/) - Instant, off-chain, peer to peer, Dai transactions using browser-based UI.
+* [Wirex](https://wirexapp.com/card/) - Fund a Wirex debit card with Dai and spend anywhere Visa is accepted.
 
 ## Finance, Investment
 
+* [AirSwap](https://www.airswap.io/) - Trade Dai for ETH and other popular tokens instantly or with OTC desks
 * [Compound](https://compound.finance/) - Earn interest on Dai via algorithmic Money Markets.
 * [Dharma](https://www.dharma.io) - Lend your Dai and earn interest.
-* [Maker](https://cdp.makerdao.com/) - Get loans in Dai against collateralized ETH.
-* [Nuo](https://app.nuo.network/) - Simplest way to margin trade.
-
-## Trading
-
 * [dYdX](https://trade.dydx.exchange/) - The most powerful open trading platform for crypto assets.
 * [KyberSwap](https://kyberswap.com/) - A simple way to exchange tokens. No deposit, no order book, competitive spreads.
 * [Neutral](https://dapp.neutralproject.com/) - Neutral Dollar is a metastable basket of stablecoins. A digital dollar with lower volatility and globally shared liquidity.
-* [token.store ETH](https://token.store/) - Decentralized exchange for ERC-20 tokens with an open smart contract. Features on-chain order-matching and settlement.
+* [Maker](https://cdp.makerdao.com/) - Get loans in Dai against collateralized ETH.
+* [Nuo](https://www.nuo.network/) - Lend, borrow, and margin trade your Dai, ETH, and other ERC20 tokens
+* [TokenSets](https://www.tokensets.com/) - Automated rebalancing of crypto portfolios supporting Dai, ETH, and other tokens
 * [Uniswap](https://uniswap.io/) - Decentralized protocol for swapping ETH, Dai and other tokens.
 
 ## Freelancers
 
+* [Bounties Network](https://bounties.network/) - Earn Dai, ETH, or other tokens by working on freelance projects or fund your own
+* [Gitcoin](https://gitcoin.co/) - Platform for crowdfunding and freelance developers for your software projects.
+* [Bounty0x](https://bounty0x.io/) - Fund or complete bounties for  marketing, development, and creative tasks with/for Dai, ETH, and other tokens.
+
 ## Other
 
 * [CelerX](https://celerx.app/) - Play eSports games, win crypto prizes. Have fun. Play to earn!
-* [Gitcoin](https://gitcoin.co/) - Platform for crowdfunding and freelance developers for your software projects.
-* [Living Room of Satoshi](https://www.livingroomofsatoshi.com/) - Pay with confidence at Australia's largest crypto payments gateway.
-
+* [Living Room of Satoshi](https://www.livingroomofsatoshi.com/) - Pay with confidence at Australia's largest crypto payments gateway.=
 
 ## Disclosure
 
