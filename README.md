@@ -40,6 +40,7 @@
 ## Agencies and Consultancies
 
 * [ScopeLift](https://www.scopelift.co/) - Software consultancy with expertise in crypto, web, and native mobile development.
+* [Protofire](http://protofire.io) - Protofire specializes in software engineering for decentralized infrastructures, protocols and applications.
 
 ## Charity and Tipping
 
