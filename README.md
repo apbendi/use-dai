@@ -27,12 +27,12 @@
 
 * [Agencies and Consultancies](#agencies-and-consultancies)
 * [Charity and Tipping](#charity-and-tipping)
-* [Payments](#payments)
 * [E-commerce](#e-commerce)
-* [Finance, Investment](#finance-investment)
-* [Trading](#trading)
+* [Finance, Investment, Trading](#finance-investment-trading)
 * [Freelancers](#freelancers)
+* [Marketplaces](#marketplaces)
 * [Other](#other)
+* [Payments](#payments)
 
 #### Miscellany
 
@@ -41,8 +41,8 @@
 
 ## Agencies and Consultancies
 
-* [ScopeLift](https://www.scopelift.co/) - Software consultancy with expertise in crypto, web, and native mobile development.
 * [Protofire](http://protofire.io) - Protofire specializes in software engineering for decentralized infrastructures, protocols and applications.
+* [ScopeLift](https://www.scopelift.co/) - Software consultancy with expertise in crypto, web, and native mobile development.
 
 ## Charity and Tipping
 
@@ -56,14 +56,7 @@
 * [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/) - Buy gift cards with Dai.
 * [OpenSea](https://opensea.io) - Buy and sell digital good and assets.  Make offers in Dai.
 
-## Payments
-
-* [Aave Pay](https://pay.aave.com/) - Use Dai and other crypto to send fiat payments to basically anyone.
-* [Coingate](https://coingate.com) - Accept payment in Dai and 50 other crypto currencies.
-* [Dai Card](https://daicard.io/) - Instant, off-chain, peer to peer, Dai transactions using browser-based UI.
-* [Wirex](https://wirexapp.com/card/) - Fund a Wirex debit card with Dai and spend anywhere Visa is accepted.
-
-## Finance, Investment
+## Finance, Investment, Trading
 
 * [AirSwap](https://www.airswap.io/) - Trade Dai for ETH and other popular tokens instantly or with OTC desks
 * [Compound](https://compound.finance/) - Earn interest on Dai via algorithmic Money Markets.
@@ -78,6 +71,8 @@
 
 ## Freelancers
 
+## Marketplaces
+
 * [Bounties Network](https://bounties.network/) - Earn Dai, ETH, or other tokens by working on freelance projects or fund your own
 * [Gitcoin](https://gitcoin.co/) - Platform for crowdfunding and freelance developers for your software projects.
 * [Bounty0x](https://bounty0x.io/) - Fund or complete bounties for  marketing, development, and creative tasks with/for Dai, ETH, and other tokens.
@@ -85,7 +80,15 @@
 ## Other
 
 * [CelerX](https://celerx.app/) - Play eSports games, win crypto prizes. Have fun. Play to earn!
+
+## Payments
+
+* [Aave Pay](https://pay.aave.com/) - Use Dai and other crypto to send fiat payments to basically anyone.
+* [Coingate](https://coingate.com) - Accept payment in Dai and 50 other crypto currencies.
+* [Dai Card](https://daicard.io/) - Instant, off-chain, peer to peer, Dai transactions using browser-based UI.
 * [Living Room of Satoshi](https://www.livingroomofsatoshi.com/) - Pay with confidence at Australia's largest crypto payments gateway.=
+* [Wirex](https://wirexapp.com/card/) - Fund a Wirex debit card with Dai and spend anywhere Visa is accepted.
+
 
 ## Disclosure
 
