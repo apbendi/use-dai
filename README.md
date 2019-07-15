@@ -29,7 +29,8 @@
 * [Charity and Tipping](#charity-and-tipping)
 * [Payments](#payments)
 * [E-commerce](#e-commerce)
-* [Finance, Investment, and Trading](#finance-investment-and-trading)
+* [Finance, Investment](#finance-investment)
+* [Trading](#trading)
 * [Freelancers](#freelancers)
 * [Other](#other)
 
@@ -61,11 +62,14 @@
 * [Dai Card](https://daicard.io/) - Instant, off-chain, peer to peer, Dai transactions using browser-based UI.
 * [Wirex](https://wirexapp.com/card/) - Fund a Wirex debit card with Dai and spend anywhere Visa is accepted.
 
-## Finance, Investment, and Trading
+## Finance, Investment
 
 * [AirSwap](https://www.airswap.io/) - Trade Dai for ETH and other popular tokens instantly or with OTC desks
 * [Compound](https://compound.finance/) - Earn interest on Dai via algorithmic Money Markets.
 * [Dharma](https://www.dharma.io) - Lend your Dai and earn interest.
+* [dYdX](https://trade.dydx.exchange/) - The most powerful open trading platform for crypto assets.
+* [KyberSwap](https://kyberswap.com/) - A simple way to exchange tokens. No deposit, no order book, competitive spreads.
+* [Neutral](https://dapp.neutralproject.com/) - Neutral Dollar is a metastable basket of stablecoins. A digital dollar with lower volatility and globally shared liquidity.
 * [Maker](https://cdp.makerdao.com/) - Get loans in Dai against collateralized ETH.
 * [Nuo](https://www.nuo.network/) - Lend, borrow, and margin trade your Dai, ETH, and other ERC20 tokens
 * [TokenSets](https://www.tokensets.com/) - Automated rebalancing of crypto portfolios supporting Dai, ETH, and other tokens
@@ -79,8 +83,8 @@
 
 ## Other
 
-
-
+* [CelerX](https://celerx.app/) - Play eSports games, win crypto prizes. Have fun. Play to earn!
+* [Living Room of Satoshi](https://www.livingroomofsatoshi.com/) - Pay with confidence at Australia's largest crypto payments gateway.=
 
 ## Disclosure
 
