@@ -62,7 +62,7 @@
 ## Trading
 
 * [Uniswap](https://uniswap.io/) - Decentralized protocol for swapping ETH, Dai and other tokens.
-* [KyberSwap](https://kyberswap.com/) - A simple way to exchange tokens. No deposit, oo orderbook, competitive spreads.
+* [KyberSwap](https://kyberswap.com/) - A simple way to exchange tokens. No deposit, no order book, competitive spreads.
 * [token.store ETH](https://token.store/) - Decentralized exchange for ERC-20 tokens with an open smart contract. Features on-chain order-matching and settlement.
 * [dYdX](https://trade.dydx.exchange/) - The most powerful open trading platform for crypto assets.
 * [Neutral](https://dapp.neutralproject.com/) - Neutral Dollar is a metastable basket of stablecoins. A digital dollar with lower volatility and globally shared liquidity.
