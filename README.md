@@ -50,11 +50,12 @@
 * [SendCrypto Bot](https://sendcryptobot.io/) - Tip with Dai on Twitter, Slack and Reddit.
 * [Unicef Ventures, France](https://lp.unicef.fr/donate-dai/) - Invests in frontier technologies, and how they could be used to solve humanity’s greatest challenges.
 
-
 ## E-commerce
 
 * [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/) - Buy gift cards with Dai.
 * [OpenSea](https://opensea.io) - Buy and sell digital good and assets.  Make offers in Dai.
+* [Reqify](https://reqify.io/) - Accept cryptocurrency payments in seconds.
+* [WooReq](https://wooreq.com/) - Accept cryptocurrency payments in seconds.
 
 ## Finance, Investment, Trading
 
@@ -62,6 +63,7 @@
 * [Compound](https://compound.finance/) - Earn interest on Dai via algorithmic Money Markets.
 * [Dharma](https://www.dharma.io) - Lend your Dai and earn interest.
 * [dYdX](https://trade.dydx.exchange/) - The most powerful open trading platform for crypto assets.
+* [Gilded](https://gilded.finance/) - Crypto accounting made simple.
 * [KyberSwap](https://kyberswap.com/) - A simple way to exchange tokens. No deposit, no order book, competitive spreads.
 * [Neutral](https://dapp.neutralproject.com/) - Neutral Dollar is a metastable basket of stablecoins. A digital dollar with lower volatility and globally shared liquidity.
 * [Maker](https://cdp.makerdao.com/) - Get loans in Dai against collateralized ETH.
@@ -87,6 +89,7 @@
 * [Coingate](https://coingate.com) - Accept payment in Dai and 50 other crypto currencies.
 * [Dai Card](https://daicard.io/) - Instant, off-chain, peer to peer, Dai transactions using browser-based UI.
 * [Living Room of Satoshi](https://www.livingroomofsatoshi.com/) - Pay with confidence at Australia's largest crypto payments gateway.=
+* [Request](https://app.request.network) - Create cryptocurrency invoices and request payments in Dai, ETH and other ERC20 tokens.
 * [Wirex](https://wirexapp.com/card/) - Fund a Wirex debit card with Dai and spend anywhere Visa is accepted.
 
 
