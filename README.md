@@ -41,6 +41,7 @@
 
 ## Agencies and Consultancies
 
+* [4IRElabs](https://4irelabs.com/) – Research and development for DeFi, DAOs and more,
 * [Protofire](http://protofire.io) - Protofire specializes in software engineering for decentralized infrastructures, protocols and applications.
 * [ScopeLift](https://www.scopelift.co/) - Software consultancy with expertise in crypto, web, and native mobile development.
 
