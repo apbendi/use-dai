@@ -63,6 +63,7 @@
 * [Compound](https://compound.finance/) - Earn interest on Dai via algorithmic Money Markets.
 * [Dharma](https://www.dharma.io) - Lend your Dai and earn interest.
 * [dYdX](https://trade.dydx.exchange/) - The most powerful open trading platform for crypto assets.
+* [Eth2Dai](https://eth2dai.com) - Decentralized exchange for trading ETH and Dai.
 * [KyberSwap](https://kyberswap.com/) - A simple way to exchange tokens. No deposit, no order book, competitive spreads.
 * [Neutral](https://dapp.neutralproject.com/) - Neutral Dollar is a metastable basket of stablecoins. A digital dollar with lower volatility and globally shared liquidity.
 * [Maker](https://cdp.makerdao.com/) - Get loans in Dai against collateralized ETH.
