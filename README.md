@@ -43,6 +43,7 @@
 
 * [Protofire](http://protofire.io) - Protofire specializes in software engineering for decentralized infrastructures, protocols and applications.
 * [ScopeLift](https://www.scopelift.co/) - Software consultancy with expertise in crypto, web, and native mobile development.
+* [4IRElabs](https://4irelabs.com/) – research and development for DeFi, DAOs and more
 
 ## Charity and Tipping
 
