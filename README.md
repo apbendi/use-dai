@@ -41,7 +41,7 @@
 
 ## Agencies and Consultancies
 
-* [4IRElabs](https://4irelabs.com/) – Research and development for DeFi, DAOs and more,
+* [4IRElabs](https://4irelabs.com/) – Research and development for DeFi, DAOs and more.
 * [Protofire](http://protofire.io) - Protofire specializes in software engineering for decentralized infrastructures, protocols and applications.
 * [ScopeLift](https://www.scopelift.co/) - Software consultancy with expertise in crypto, web, and native mobile development.
 
@@ -59,7 +59,7 @@
 
 ## Finance, Investment, Trading
 
-* [AirSwap](https://www.airswap.io/) - Trade Dai for ETH and other popular tokens instantly or with OTC desks
+* [AirSwap](https://www.airswap.io/) - Trade Dai for ETH and other popular tokens instantly or with OTC desks.
 * [Compound](https://compound.finance/) - Earn interest on Dai via algorithmic Money Markets.
 * [Dharma](https://www.dharma.io) - Lend your Dai and earn interest.
 * [dYdX](https://trade.dydx.exchange/) - The most powerful open trading platform for crypto assets.
@@ -67,15 +67,15 @@
 * [Neutral](https://dapp.neutralproject.com/) - Neutral Dollar is a metastable basket of stablecoins. A digital dollar with lower volatility and globally shared liquidity.
 * [Maker](https://cdp.makerdao.com/) - Get loans in Dai against collateralized ETH.
 * [Nuo](https://www.nuo.network/) - Lend, borrow, and margin trade your Dai, ETH, and other ERC20 tokens
-* [PoolTogether] (https://www.pooltogether.us/) - A no-loss lottery where everyone gets their deposit back and one person collects all the interest.
-* [TokenSets](https://www.tokensets.com/) - Automated rebalancing of crypto portfolios supporting Dai, ETH, and other tokens
+* [PoolTogether](https://www.pooltogether.us/) - A no-loss lottery where everyone gets their deposit back and one person collects all the interest.
+* [TokenSets](https://www.tokensets.com/) - Automated rebalancing of crypto portfolios supporting Dai, ETH, and other tokens.
 * [Uniswap](https://uniswap.io/) - Decentralized protocol for swapping ETH, Dai and other tokens.
 
 ## Freelancers
 
 ## Marketplaces
 
-* [Bounties Network](https://bounties.network/) - Earn Dai, ETH, or other tokens by working on freelance projects or fund your own
+* [Bounties Network](https://bounties.network/) - Earn Dai, ETH, or other tokens by working on freelance projects or fund your own.
 * [Gitcoin](https://gitcoin.co/) - Platform for crowdfunding and freelance developers for your software projects.
 * [Bounty0x](https://bounty0x.io/) - Fund or complete bounties for  marketing, development, and creative tasks with/for Dai, ETH, and other tokens.
 
