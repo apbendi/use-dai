@@ -87,6 +87,7 @@
 ## Payments
 
 * [Aave Pay](https://pay.aave.com/) - Use Dai and other crypto to send fiat payments to basically anyone.
+* [Argent](https://www.argent.xyz/) - Send Dai and other crypto with no transaction fees (free gas).
 * [Coingate](https://coingate.com) - Accept payment in Dai and 50 other crypto currencies.
 * [Dai Card](https://daicard.io/) - Instant, off-chain, peer to peer, Dai transactions using browser-based UI.
 * [Living Room of Satoshi](https://www.livingroomofsatoshi.com/) - Pay with confidence at Australia's largest crypto payments gateway.=
