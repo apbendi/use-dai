@@ -41,9 +41,9 @@
 
 ## Agencies and Consultancies
 
+* [D5 - The Data Science DAO](https://d5.ai) - Data scientists and data engineers with expertise in crypto / blockchain.
 * [Protofire](http://protofire.io) - Protofire specializes in software engineering for decentralized infrastructures, protocols and applications.
 * [ScopeLift](https://www.scopelift.co/) - Software consultancy with expertise in crypto, web, and native mobile development.
-* [D5 - The Data Science DAO](https://d5.ai) - Data scientists and data engineers with expertise in crypto / blockchain.
 
 ## Charity and Tipping
 
