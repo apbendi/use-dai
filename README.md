@@ -42,6 +42,7 @@
 ## Agencies and Consultancies
 
 * [4IRElabs](https://4irelabs.com/) – Research and development for DeFi, DAOs and more.
+* [Bitfalls](https://bitfalls.com) - Consultancy and dapp development, blockchain education.
 * [D5 - The Data Science DAO](https://d5.ai) - Data scientists and data engineers with expertise in crypto / blockchain.
 * [Protofire](http://protofire.io) - Protofire specializes in software engineering for decentralized infrastructures, protocols and applications.
 * [ScopeLift](https://www.scopelift.co/) - Software consultancy with expertise in crypto, web, and native mobile development.
@@ -56,12 +57,15 @@
 ## E-commerce
 
 * [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/) - Buy gift cards with Dai.
+* [BlockAndMortar.io](https://blockandmortar.io) - Ethereum full nodes on micro-PCs, plug and play, sold at cost.
+* [Coinevents.io](https://coinevents.io) - Event tickets, sell your event's tickets for crypto (including DAI).
 * [OpenSea](https://opensea.io) - Buy and sell digital good and assets.  Make offers in Dai.
 
 ## Finance, Investment, Trading
 
 * [AirSwap](https://www.airswap.io/) - Trade Dai for ETH and other popular tokens instantly or with OTC desks.
 * [Compound](https://compound.finance/) - Earn interest on Dai via algorithmic Money Markets.
+* [DeFi Academy](https://defi.academy) - Localized DeFi workshops in Croatian and English, moving globally according to demand.
 * [Dharma](https://www.dharma.io) - Lend your Dai and earn interest.
 * [dYdX](https://trade.dydx.exchange/) - The most powerful open trading platform for crypto assets.
 * [Eth2Dai](https://eth2dai.com) - Decentralized exchange for trading ETH and Dai.
@@ -78,8 +82,8 @@
 ## Marketplaces
 
 * [Bounties Network](https://bounties.network/) - Earn Dai, ETH, or other tokens by working on freelance projects or fund your own.
-* [Gitcoin](https://gitcoin.co/) - Platform for crowdfunding and freelance developers for your software projects.
 * [Bounty0x](https://bounty0x.io/) - Fund or complete bounties for  marketing, development, and creative tasks with/for Dai, ETH, and other tokens.
+* [Gitcoin](https://gitcoin.co/) - Platform for crowdfunding and freelance developers for your software projects.
 
 ## Other
 
