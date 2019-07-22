@@ -47,6 +47,7 @@
 * [Gaia Systems Inc.](https://gaiasystemsinc.com/) - Software development consultancy: we specialize in web development, blockchain and machine learning.
 * [Protofire](http://protofire.io) - Protofire specializes in software engineering for decentralized infrastructures, protocols and applications.
 * [ScopeLift](https://www.scopelift.co/) - Software consultancy with expertise in crypto, web, and native mobile development.
+* [LimeChain](https://limechain.tech/) - Blockchain development and consulting software company for both public and private solutions.
 
 ## Charity and Tipping
 
