@@ -79,6 +79,8 @@
 
 ## Freelancers
 
+* [William M. Peaster](https://wmpea.github.io/portfolio/) - Writing and editing services in exchange for Dai or ETH.
+
 ## Marketplaces
 
 * [Bounties Network](https://bounties.network/) - Earn Dai, ETH, or other tokens by working on freelance projects or fund your own.
