@@ -44,6 +44,7 @@
 * [4IRElabs](https://4irelabs.com/) – Research and development for DeFi, DAOs and more.
 * [Bitfalls](https://bitfalls.com) - Consultancy and dapp development, blockchain education.
 * [D5 - The Data Science DAO](https://d5.ai) - Data scientists and data engineers with expertise in crypto / blockchain.
+* [Gaia Systems Inc.](https://gaiasystemsinc.com/) - Software development consultancy: we specialize in web development, blockchain and machine learning.
 * [Protofire](http://protofire.io) - Protofire specializes in software engineering for decentralized infrastructures, protocols and applications.
 * [ScopeLift](https://www.scopelift.co/) - Software consultancy with expertise in crypto, web, and native mobile development.
 
