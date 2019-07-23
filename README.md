@@ -98,8 +98,12 @@
 * [Argent](https://www.argent.xyz/) - Send Dai and other crypto with no transaction fees (free gas).
 * [Coingate](https://coingate.com) - Accept payment in Dai and 50 other crypto currencies.
 * [Dai Card](https://daicard.io/) - Instant, off-chain, peer to peer, Dai transactions using browser-based UI.
-* [Living Room of Satoshi](https://www.livingroomofsatoshi.com/) - Pay with confidence at Australia's largest crypto payments gateway.=
+* [Gilded](https://gilded.finance/) - Crypto accounting made simple.
+* [Living Room of Satoshi](https://www.livingroomofsatoshi.com/) - Pay with confidence at Australia's largest crypto payments gateway.
+* [Reqify](https://reqify.io/) - Request for Shopify is a simple way to accept cryptocurrency payments on your Shopify store.
+* [Request](https://app.request.network) - Create cryptocurrency invoices and request payments in Dai, ETH and other ERC20 tokens.
 * [Wirex](https://wirexapp.com/card/) - Fund a Wirex debit card with Dai and spend anywhere Visa is accepted.
+* [WooReq](https://wooreq.com/) - Request for WooCommerce is a simple way to accept cryptocurrency payments on your WooCommerce store.
 
 
 ## Disclosure
