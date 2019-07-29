@@ -78,6 +78,7 @@
 * [PoolTogether](https://www.pooltogether.us/) - A no-loss lottery where everyone gets their deposit back and one person collects all the interest.
 * [TokenSets](https://www.tokensets.com/) - Automated rebalancing of crypto portfolios supporting Dai, ETH, and other tokens.
 * [Uniswap](https://uniswap.io/) - Decentralized protocol for swapping ETH, Dai and other tokens.
+* [DEX.AG](http://dex.ag/) - DEX aggregator enabling access to the best prices/liquidity from all major DEXes
 
 ## Freelancers
 
