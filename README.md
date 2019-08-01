@@ -68,6 +68,7 @@
 * [AirSwap](https://www.airswap.io/) - Trade Dai for ETH and other popular tokens instantly or with OTC desks.
 * [Compound](https://compound.finance/) - Earn interest on Dai via algorithmic Money Markets.
 * [DeFi Academy](https://defi.academy) - Localized DeFi workshops in Croatian and English, moving globally according to demand.
+* [DEX.AG](https://dex.ag/) - Trade at the best price from all major DEXes
 * [Dharma](https://www.dharma.io) - Lend your Dai and earn interest.
 * [dYdX](https://trade.dydx.exchange/) - The most powerful open trading platform for crypto assets.
 * [Eth2Dai](https://eth2dai.com) - Decentralized exchange for trading ETH and Dai.
