@@ -72,7 +72,9 @@
 * [Dharma](https://www.dharma.io) - Lend your Dai and earn interest.
 * [dYdX](https://trade.dydx.exchange/) - The most powerful open trading platform for crypto assets.
 * [Eth2Dai](https://eth2dai.com) - Decentralized exchange for trading ETH and Dai.
+* [InstaDApp](https://instadapp.io/) - A DeFi autonomous banking platform to lend, borrow, leverage and swap ETH, Dai and other ERC20 tokens.
 * [KyberSwap](https://kyberswap.com/) - A simple way to exchange tokens. No deposit, no order book, competitive spreads.
+* [Liquality](https://liquality.io/) - Free Atomic Swaps between BTC, Dai and ETH.
 * [Neutral](https://dapp.neutralproject.com/) - Neutral Dollar is a metastable basket of stablecoins. A digital dollar with lower volatility and globally shared liquidity.
 * [Maker](https://cdp.makerdao.com/) - Get loans in Dai against collateralized ETH.
 * [Nuo](https://www.nuo.network/) - Lend, borrow, and margin trade your Dai, ETH, and other ERC20 tokens
@@ -101,6 +103,7 @@
 * [Coingate](https://coingate.com) - Accept payment in Dai and 50 other crypto currencies.
 * [Dai Card](https://daicard.io/) - Instant, off-chain, peer to peer, Dai transactions using browser-based UI.
 * [Gilded](https://gilded.finance/) - Crypto accounting made simple.
+* [Groundhog](https://groundhog.network/) - Accept recurring and pre-authorized subscription payments from customers.
 * [Living Room of Satoshi](https://www.livingroomofsatoshi.com/) - Pay with confidence at Australia's largest crypto payments gateway.
 * [Reqify](https://reqify.io/) - Request for Shopify is a simple way to accept cryptocurrency payments on your Shopify store.
 * [Request](https://app.request.network) - Create cryptocurrency invoices and request payments in Dai, ETH and other ERC20 tokens.
