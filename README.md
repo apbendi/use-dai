@@ -95,7 +95,7 @@
 ## Other
 
 * [CelerX](https://celerx.app/) - Play eSports games, win crypto prizes. Have fun. Play to earn!
-*[Coinbase Dai Tutorial](https://www.coinbase.com/earn/dai/) - Learn about Dai and Earn upto 20 Dai.
+* [Coinbase Dai Tutorial](https://www.coinbase.com/earn/dai/) - Learn about Dai and Earn upto 20 Dai.
 * [Whisp](https://whisp.money/) - A payroll service that allows an employer to pay employees using Dai, ETH or other ERC20 tokens.
 
 ## Payments
