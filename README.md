@@ -95,6 +95,7 @@
 ## Other
 
 * [CelerX](https://celerx.app/) - Play eSports games, win crypto prizes. Have fun. Play to earn!
+* [Whisp](https://whisp.money/) - A payroll service that allows an employer to pay employees using Dai, ETH or other ERC20 tokens.
 
 ## Payments
 
