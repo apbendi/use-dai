@@ -79,6 +79,7 @@
 * [Maker](https://cdp.makerdao.com/) - Get loans in Dai against collateralized ETH.
 * [Nuo](https://www.nuo.network/) - Lend, borrow, and margin trade your Dai, ETH, and other ERC20 tokens
 * [PoolTogether](https://www.pooltogether.us/) - A no-loss lottery where everyone gets their deposit back and one person collects all the interest.
+* [Swarm](https://www.swarm.fund/) - Use Dai to participate in security token offerings.
 * [TokenSets](https://www.tokensets.com/) - Automated rebalancing of crypto portfolios supporting Dai, ETH, and other tokens.
 * [Uniswap](https://uniswap.io/) - Decentralized protocol for swapping ETH, Dai and other tokens.
 
