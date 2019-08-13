@@ -86,6 +86,7 @@
 ## Freelancers
 
 * [William M. Peaster](https://wmpea.github.io/portfolio/) - Writing and editing services in exchange for Dai or ETH.
+* [Maximilian Ehlers](https://maximilianehlers.com) - Fullstack Development for DAI or ETH. 
 
 ## Marketplaces
 
