@@ -59,8 +59,8 @@
 ## E-commerce
 
 * [Bidali](https://giftcards.bidali.com/buy-giftcards-with-dai/) - Buy gift cards with Dai.
-* [BlockAndMortar.io](https://blockandmortar.io) - Ethereum full nodes on micro-PCs, plug and play, sold at cost.
 * [Coinevents.io](https://coinevents.io) - Event tickets, sell your event's tickets for crypto (including DAI).
+* [DAppNode](https://dappnode.io/) - Infrastructure for the decentralized world. The easiest way to run your own nodes, now. Pre-configured full node micro PCs.
 * [OpenSea](https://opensea.io) - Buy and sell digital good and assets.  Make offers in Dai.
 
 ## Finance, Investment, Trading
