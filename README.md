@@ -109,6 +109,7 @@
 * [Gilded](https://gilded.finance/) - Crypto accounting made simple.
 * [Groundhog](https://groundhog.network/) - Accept recurring and pre-authorized subscription payments from customers.
 * [Living Room of Satoshi](https://www.livingroomofsatoshi.com/) - Pay with confidence at Australia's largest crypto payments gateway.
+* [Monolith](https://monolith.xyz) - Non-custodial Ethereum contract wallet paired with a Visa debit card to spend your DAI.
 * [Reqify](https://reqify.io/) - Request for Shopify is a simple way to accept cryptocurrency payments on your Shopify store.
 * [Request](https://app.request.network) - Create cryptocurrency invoices and request payments in Dai, ETH and other ERC20 tokens.
 * [Wirex](https://wirexapp.com/card/) - Fund a Wirex debit card with Dai and spend anywhere Visa is accepted.
