@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="250" height="250" src="media/dai-logo.svg" alt="Dai Logo">
+	<img width="250" height="250" src="media/mcd-dai-badge.svg" alt="Dai Logo">
 	<br>
 	<br>
 	<br>
