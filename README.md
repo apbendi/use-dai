@@ -112,7 +112,7 @@
 * [Monolith](https://monolith.xyz) - Non-custodial Ethereum contract wallet paired with a Visa debit card to spend your DAI.
 * [Reqify](https://reqify.io/) - Request for Shopify is a simple way to accept cryptocurrency payments on your Shopify store.
 * [Request](https://app.request.network) - Create cryptocurrency invoices and request payments in Dai, ETH and other ERC20 tokens.
-* [Trust Wallet] (https://trustwallet.com/) - One wallet for all your crypto assets.
+* [Trust Wallet](https://trustwallet.com/) - One wallet for all your crypto assets.
 * [Wirex](https://wirexapp.com/card/) - Fund a Wirex debit card with Dai and spend anywhere Visa is accepted.
 * [WooReq](https://wooreq.com/) - Request for WooCommerce is a simple way to accept cryptocurrency payments on your WooCommerce store.
 
