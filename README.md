@@ -69,6 +69,7 @@
 * [Compound](https://compound.finance/) - Earn interest on Dai via algorithmic Money Markets.
 * [DeFi Academy](https://defi.academy) - Localized DeFi workshops in Croatian and English, moving globally according to demand.
 * [DEX.AG](https://dex.ag/) - Trade at the best price from all major DEXes
+* [dex.blue](https://dex.blue) - dex.blue delivers the best non-custodial orderbook exchange: liquid, fast and uncompromisingly secure.
 * [Dharma](https://www.dharma.io) - Lend your Dai and earn interest.
 * [dYdX](https://trade.dydx.exchange/) - The most powerful open trading platform for crypto assets.
 * [Eth2Dai](https://eth2dai.com) - Decentralized exchange for trading ETH and Dai.
