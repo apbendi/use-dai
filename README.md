@@ -43,6 +43,7 @@
 
 * [4IRElabs](https://4irelabs.com/) – Research and development for DeFi, DAOs and more.
 * [Bitfalls](https://bitfalls.com) - Consultancy and dapp development, blockchain education.
+* [BlockRocket](https://www.blockrocket.tech/) - Web3 focused software consultancy, experienced dapp builders, DeFi, DAOs, NFTs and crypto in general. 
 * [D5 - The Data Science DAO](https://d5.ai) - Data scientists and data engineers with expertise in crypto / blockchain.
 * [Gaia Systems Inc.](https://gaiasystemsinc.com/) - Software development consultancy: we specialize in web development, blockchain and machine learning.
 * [LimeChain](https://limechain.tech/) - Blockchain development and consulting software company for both public and private solutions.
