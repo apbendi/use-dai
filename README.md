@@ -80,6 +80,7 @@
 * [Nuo](https://www.nuo.network/) - Lend, borrow, and margin trade your Dai, ETH, and other ERC20 tokens.
 * [Oasis](https://oasis.app/trade/) - Decentralized exchange from MakerDAO.
 * [PoolTogether](https://www.pooltogether.us/) - A no-loss lottery where everyone gets their deposit back and one person collects all the interest.
+* [Raise](https://raise.it/) - Non collateral DAI loans for emerging markets.
 * [Swarm](https://www.swarm.fund/) - Use Dai to participate in security token offerings.
 * [TokenSets](https://www.tokensets.com/) - Automated rebalancing of crypto portfolios supporting Dai, ETH, and other tokens.
 * [Uniswap](https://uniswap.io/) - Decentralized protocol for swapping ETH, Dai and other tokens.
